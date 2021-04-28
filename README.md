@@ -14,7 +14,7 @@
         <h2>Mademoiselle Caroline Riviere</h2>
         <p>by <a href="#">Jean-Auguste-Dominique Ingres</a></p>
         &emsp;&emsp;&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Jean_Auguste_Dominique_Ingres_-_Mademoiselle_Caroline_Rivi%C3%A8re_-_WGA11837.jpg"     alt="photo1" width="200" height="300">
-        <p>The portrait of Mademoiselle Caroline Riviere was painted in 1806 by the French Neoclassical artist Jean-Auguste-Dominique Ingres, and today hangs in the Louvre.It is          the third of three portraits of the Riviere family the artist painted that year.</p>
+        <p>The portrait of Mademoiselle Caroline Riviere was painted in 1806 by the French Neoclassical artist Jean-Auguste-Dominique Ingres, and today hangs in the Louvre.It is the third of three portraits of the Riviere family the artist painted that year.</p>
         <p><b>Date:</b>1806<br>
         <b>Medium:</b>Oil on Canvas<br> 
         <b>Dimensions:</b>100 x 70 cm <br>
