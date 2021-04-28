@@ -23,7 +23,7 @@
         
   </section>
 
-   <section id="id2">
+  <section id="id2">
          <h3>Related Photos</h3>
          <img src="https://az334033.vo.msecnd.net/images-9/untitled-jean-auguste-dominique-ingres-1805-7e365c3e.jpg" alt="photo2" height="200" width="200">&emsp;
          <img src="https://artandcrafter.com/wp-content/uploads/2019/01/Jean-Auguste-Dominique-Ingres-1.jpg" alt="photo3" height="200" width="200"> &emsp;
